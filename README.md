@@ -1,4 +1,4 @@
-# House Price Prediction - Machine Learning Project
+# House Price Prediction 
 
 ## Overview
 This project predicts house prices using Linear Regression and Random Forest models.
